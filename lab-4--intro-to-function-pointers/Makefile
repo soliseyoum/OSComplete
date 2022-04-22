@@ -1,4 +1,4 @@
-STUDENT_ID=XXXXXXX
+STUDENT_ID=02894082
 
 TASK1_SRC	:= $(wildcard task1/*.c)
 TASK2_SRC 	:= $(wildcard task2/*.c)
